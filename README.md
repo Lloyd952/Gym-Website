@@ -140,7 +140,7 @@ For questions or suggestions, please contact us:
 
 ## Credits
 
-- Developer: [Your Name/Team Name]
+- Developer: [Lloyd]
 
 - Icons: [FontAwesome](https://fontawesome.com/)
 
